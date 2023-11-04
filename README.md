@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Linkedin Gabriel" src="https://media.licdn.com/dms/image/D5603AQFukTpkSyQYLg/profile-displayphoto-shrink_400_400/0/1674486174119?e=1704326400&v=beta&t=3EjL7ZDcnTy8S4wbH1oQKTG4UTDcwjYvnC6zVD-RHgk" width="100px"/>
+  <img alt="Linkedin Gabriel" src="https://www.linkedin.com/in/gabriel--jesus/" width="100px" borderRadius="50px"/>
 </p>
 
 <p align="center">
