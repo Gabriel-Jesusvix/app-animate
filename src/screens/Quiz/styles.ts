@@ -6,6 +6,13 @@ export const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: THEME.COLORS.GREY_800,
   },
+  title: {
+    fontFamily: THEME.FONTS.BOLD,
+    color: THEME.COLORS.GREY_100,
+    fontSize: 16,
+    marginBottom: 7,
+    textAlign: 'center',
+  },
   question: {
     alignItems: 'center',
     paddingTop: 80,
@@ -15,5 +22,9 @@ export const styles = StyleSheet.create({
   footer: {
     flexDirection: 'row',
     marginTop: 24,
+  },
+  header: {
+    width: '100%',
+    marginBottom: 21
   }
 });
